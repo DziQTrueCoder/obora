@@ -1,0 +1,462 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2024-01-03 21:17:07",
+  "files": {
+    "F:\\obo_windows\\obora_app\\Obora_app\\Obora_app\\Obora_app.vcxproj": {
+      "before": "7VltT+NGEL7PlfoTKkXWVQFdE+cNyh2OT1wCKGqAiAT4Eglt7EniO9vr7q6BtNf/3rG9XschAVJaoIj7cCK7M7O7s888Mzv+5ad374zPN55buALGHeo3tWq5ohXAt6jt+JOmFopxaUf7bP74g9Fj9CtYotCGMQldMSBsAoI3tS+h49paAa34+GsqRPBJ17k1BY/wsudYjHI6FmWLeroNV+DSAJju8VGkptcqlbqG1gsFoyPAO2Q0DApdMgK3qckFW9QfO5OQEYEb5Ikwii+bLXR8yw1taGptGIWT7xeOX6+lGqiTM2XGMoaeH4y2Ev0zei4RY8o8MzZi6Op3IoEDiT+Wqd+zuVNwgXC4Z3tS6jk2mHjvZrvxWN+hif/Ec3dt7cF+W3Nzhq4QmgAWAYBQFrMcaA9dOiJuBtPzlsTJeRJhZvXXcsXQbw1LVP0Gs2vK7AR0kaahp0NSQpo7DB3b/JPY49p2HexSlVTqpcb2VqW087HysTQajbcs0tgGq2r9paAa60gzp5SKY+IBD4gF5smIMkKCwNDz41IYQ8Cm1zwJ+TQQ1IEq0YHuFInMxLvI/CVj3gsoEwV5pqb2fuO8JYmlR8R0c3ik+KMVBGVJPeUAPc+1gr7sHjAebSeiiqZWfL+Ri87N7+830t1vFpvN4hxLFLWUdnIqaQDkqWMwC8DcCwLXsWJWWojReFq67oxDvErXGTHCHOCmYCEY+u1xqZBucECpy0GYV9VGPYuhdFQKt6aEEUsA66Pkme8gbaPt3OhK36PTs+sorOO2HH89nePGGFf/mucuptQFdMGEEe8kEI7n/BFfpbyeldPP6njFy0/n9NeDVqT7p3Pba8FqZz2CzhNzopxLj/s3Avyo0kTCElhhykSJuTVeKJadTw055T6yHdgJJT9MI+W4/hSwVtXWYrlccoj3hEnstj+QyFmUNNsOW0xXc9mmHKJYmrfmuBZuHC74Bmaqte0UN1XK6lKLuJiP2kSQNH+o9Pgg1z7GUQvp4M1V6rWyouCImejNTavdlCLq9TkqjbMcr0Whf0Sih7IK2uipgdWu48elbCI9RxvrVbYp1Fpui3qB44IcQD67IMxHGu5GD3Mz/h+LzdxgUvCgaL/dbU3B+iYrJPVTCfQYIP9bwDll2d65edE5rtd2L9v7X84Ody9bJ8f9k+7+7s8bK+Q3o5fCcktqqahGx7c58S04wpJXbmlxVNZq+uK5ja7jf8t80A9H/RlHh5togGNZaOjZkFryEHzAHkRSzXeS5aNnhlx75XS6CbVm8o7MHDSf8x5562ncxC2LYvZ2edS9H4S+FR00Rkd0CsSLPPTSKeWxji+Yg8neSsXSt8+SCaWkYJUUnuqnEliFjQRlx/9zlO37ZORC6+SovTc4oG7UhJO+XjajnCJfMHAKY2DYvVPPzCUTSmklZBPXr5xODBj6UyB67sXzzCzWH+wNOi1kr1av93xkhjy8Zyf9DeLKbidWntiXpXFz4eDTkI7o5XXSsIn+ZuQSGzvDuMOz8Jc347+7JYv6fqxfsj58KO2Ua+VKCfUx9w6dpJ06jAV317LtOqOhFTIXDW6VK5eNyOR2o+QhoK9Tu5gD7joMJoK7pjMCPw19fMBD0mKZmUfYnXYGUwbEBrvd7WJTKy+gIqBL/ElIJtAXxLcJtt24sK0gqGE/69ZUivoXkExyIJCn/scguPOicHK9a78XUmgRgXXFq43c7d8+Re72b09nt59hpA0B+DbSX9Rmi3eClxnBu8QFNnescnSceczNK+TWm59IeedJ+C7N4LnKdxFy69VtafZ94fn7LXO/vMydlaYIOYXC7CubSiplDDT1dln8TpL/bBJbkplrmaXpajvr9aJE8oFSmZvrMKWtftWNkt8clreW1PcT828=",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2024-01-03 21:17:07</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Converting custom build steps to Qt/MSBuild items]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>F:\obo_windows\obora_app\Obora_app\Obora_app\mysql-connector-c++-8]]></Span><Span><![CDATA[.2.0-winx64\include\mysql;F:\obo_windows\obora_app\Obora_app\Obora_app\lib\curl-8.5.0_4-win64-mingw\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;F:\obo_windows\obora_app\Obora_app\Obora_app\mysql-connector-c++-8]]></Span><Span><![CDATA[.2.0-winx64\include\mysql;F:\obo_windows\obora_app\Obora_app\Obora_app\lib\curl-8.5.0_4-win64-mingw\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[F:\obo_windows\obora_app\Obora_app\Obora_app\Obora_app.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--VE2Vg7d46dIFiP5flTiXoHIPaYBhewWyXPIBtga6emI=-->
